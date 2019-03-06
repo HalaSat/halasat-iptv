@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN SPORTS 4K" channel-id="19" tv-logo="http://tv.halasat.net/images/uploads/bein4k.png",BEIN SPORTS 4K
+http://192.168.37.2:1935/bein1/bein4k_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1HD" channel-id="20" tv-logo="http://tv.halasat.net/images/uploads/bein1.png",BEIN SPORTS 1HD
+http://192.168.37.2:1935/bein1/1_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2HD" channel-id="21" tv-logo="http://tv.halasat.net/images/uploads/bein2.png",BEIN SPORTS 2HD
+http://192.168.37.2:1935/bein1/2_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3HD" channel-id="22" tv-logo="http://tv.halasat.net/images/uploads/bein3.png",BEIN SPORTS 3HD
+http://192.168.37.2:1935/bein1/3_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX HD" channel-id="23" tv-logo="http://tv.halasat.net/images/uploads/max1.png",BEIN SPORTS MAX HD
+http://192.168.37.2:1935/bein1/4_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 5HD" channel-id="24" tv-logo="http://tv.halasat.net/images/uploads/bein5.png",BEIN SPORTS 5HD
+http://192.168.37.2:1935/bein1/5_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES FIRST" channel-id="25" tv-logo="http://tv.halasat.net/images/uploads/osnmoviesfirst.png",OSN MOVIES FIRST
+http://192.168.37.2:1935/live/6_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN YAHALA HD" channel-id="26" tv-logo="http://tv.halasat.net/images/uploads/osnyahala.png",OSN YAHALA HD
+http://192.168.37.2:1935/live/7_adaptive.m3u8
+#EXTINF:-1 tvg-name="NAT GEO WILD HD" channel-id="27" tv-logo="http://tv.halasat.net/images/uploads/NatGeoWild.png",NAT GEO WILD HD
+http://192.168.37.2:1935/live/8_adaptive.m3u8
+#EXTINF:-1 tvg-name="PLANET EARTH HD" channel-id="28" tv-logo="http://tv.halasat.net/images/uploads/planetearth.png",PLANET EARTH HD
+http://192.168.37.2:1935/live/5_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN YAHALA AL OULA" channel-id="29" tv-logo="http://tv.halasat.net/images/uploads/osnyahalao.png",OSN YAHALA AL OULA
+http://192.168.37.2:1935/live/9_adaptive.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY HD" channel-id="30" tv-logo="http://tv.halasat.net/images/uploads/discoveryhd.png",DISCOVERY HD
+http://192.168.37.2:1935/live/10_adaptive.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" channel-id="32" tv-logo="http://tv.halasat.net/images/uploads/AnimalPlant.png",ANIMAL PLANET HD
+http://192.168.37.2:1935/live/12_adaptive.m3u8
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL" channel-id="33" tv-logo="http://tv.halasat.net/images/uploads/travel.png",TRAVEL CHANNEL
+http://192.168.37.2:1935/live/13_adaptive.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" channel-id="34" tv-logo="http://tv.halasat.net/images/uploads/discoverysc.png",DISCOVERY SCIENCE HD
+http://192.168.37.2:1935/live/14_adaptive.m3u8
+#EXTINF:-1 tvg-name="FIX & FOXI" channel-id="35" tv-logo="http://tv.halasat.net/images/uploads/fix.png",FIX & FOXI
+http://192.168.37.2:1935/live/15_adaptive.m3u8
+#EXTINF:-1 tvg-name="STEREO MUSIC" channel-id="36" tv-logo="http://tv.halasat.net/images/uploads/stereo.png",STEREO MUSIC
+http://192.168.37.2:1935/live/16_adaptive.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" channel-id="37" tv-logo="http://tv.halasat.net/images/uploads/disney.png",DISNEY CHANNEL
+http://192.168.37.2:1935/live2/35_adaptive.m3u8
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" channel-id="38" tv-logo="http://tv.halasat.net/images/uploads/history.png",HISTORY CHANNEL
+http://192.168.37.2:1935/live2/34_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 6HD" channel-id="39" tv-logo="http://tv.halasat.net/images/uploads/bein6.png",BEIN SPORTS 6HD
+http://192.168.37.2:1935/bein2/6_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7HD" channel-id="40" tv-logo="http://tv.halasat.net/images/uploads/bein7.png",BEIN SPORTS 7HD
+http://192.168.37.2:1935/bein2/7_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 8HD" channel-id="41" tv-logo="http://tv.halasat.net/images/uploads/bein8.png",BEIN SPORTS 8HD
+http://192.168.37.2:1935/bein2/8_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9HD" channel-id="42" tv-logo="http://tv.halasat.net/images/uploads/bein9.png",BEIN SPORTS 9HD
+http://192.168.37.2:1935/bein2/9_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 10HD" channel-id="43" tv-logo="http://tv.halasat.net/images/uploads/bein10.png",BEIN SPORTS 10HD
+http://192.168.37.2:1935/bein2/10_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES BOXOFFICE" channel-id="44" tv-logo="http://tv.halasat.net/images/uploads/osnboxoffice.png",OSN MOVIES BOXOFFICE
+http://192.168.37.2:1935/live2/36_adaptive.m3u8
+#EXTINF:-1 tvg-name="AD SPORTS 3" channel-id="45" tv-logo="http://tv.halasat.net/images/uploads/ads3.png",AD SPORTS 3
+http://192.168.37.2:1935/live2/21_adaptive.m3u8
+#EXTINF:-1 tvg-name="TLC HD" channel-id="46" tv-logo="http://tv.halasat.net/images/uploads/tlc.png",TLC HD
+http://192.168.37.2:1935/live2/22_adaptive.m3u8
+#EXTINF:-1 tvg-name="FOX ACTION MOVIES" channel-id="47" tv-logo="http://tv.halasat.net/images/uploads/foxaction.png",FOX ACTION MOVIES
+http://192.168.37.2:1935/live2/23_adaptive.m3u8
+#EXTINF:-1 tvg-name="FX HD" channel-id="49" tv-logo="http://tv.halasat.net/images/uploads/fxhd.png",FX HD
+http://192.168.37.2:1935/live2/25_adaptive.m3u8
+#EXTINF:-1 tvg-name="FOX FAMILY MOVIES" channel-id="50" tv-logo="http://tv.halasat.net/images/uploads/foxfamily.png",FOX FAMILY MOVIES
+http://192.168.37.2:1935/live2/26_adaptive.m3u8
+#EXTINF:-1 tvg-name="MY CINEMA" channel-id="51" tv-logo="http://tv.halasat.net/images/uploads/mycinema.png",MY CINEMA
+http://192.168.37.2:1935/live2/27_adaptive.m3u8
+#EXTINF:-1 tvg-name="GAME TOON" channel-id="52" tv-logo="http://tv.halasat.net/images/uploads/gametoon.png",GAME TOON
+http://192.168.37.2:1935/live2/28_adaptive.m3u8
+#EXTINF:-1 tvg-name="Discovery Family HD" channel-id="53" tv-logo="http://tv.halasat.net/images/uploads/discoveryfamily.png",Discovery Family HD
+http://192.168.37.2:1935/live3/41_adaptive.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK ARABIA" channel-id="54" tv-logo="http://tv.halasat.net/images/uploads/cnarabia.png",CARTOON NETWORK ARABIA
+http://192.168.37.2:1935/nile3/74_adaptive.m3u8
+#EXTINF:-1 tvg-name="AD SPORTS 4" channel-id="55" tv-logo="http://tv.halasat.net/images/uploads/ads4.png",AD SPORTS 4
+http://192.168.37.2:1935/live3/43_adaptive.m3u8
+#EXTINF:-1 tvg-name="GULLI" channel-id="56" tv-logo="http://tv.halasat.net/images/uploads/gulli.png",GULLI
+http://192.168.37.2:1935/live/44_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES DRAMA" channel-id="57" tv-logo="http://tv.halasat.net/images/uploads/osnmoviesdrama.png",OSN MOVIES DRAMA
+http://192.168.37.2:1935/live3/49_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN FIRST HBO" channel-id="58" tv-logo="http://tv.halasat.net/images/uploads/osnfirsthbo.png",OSN FIRST HBO
+http://192.168.37.2:1935/live3/45_adaptive.m3u8
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" channel-id="60" tv-logo="http://tv.halasat.net/images/uploads/disneyjunior.png",DISNEY JUNIOR
+http://192.168.37.2:1935/live3/47_adaptive.m3u8
+#EXTINF:-1 tvg-name="WWE Network" channel-id="62" tv-logo="http://tv.halasat.net/images/uploads/wwe.png",WWE Network
+http://192.168.37.2:1935/live3/50_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES COMEDY" channel-id="63" tv-logo="http://tv.halasat.net/images/uploads/osnmoviescomedy.png",OSN MOVIES COMEDY
+http://192.168.37.2:1935/live2/33_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC+ VARIETY" channel-id="64" tv-logo="http://tv.halasat.net/images/uploads/mbcv.png",MBC+ VARIETY
+http://192.168.37.2:1935/live/96_adaptive.m3u8
+#EXTINF:-1 tvg-name="DOCUBOX" channel-id="65" tv-logo="http://tv.halasat.net/images/uploads/docubox.png",DOCUBOX
+http://192.168.37.2:1935/live3/52_adaptive.m3u8
+#EXTINF:-1 tvg-name="STAR WORLD HD" channel-id="66" tv-logo="http://tv.halasat.net/images/uploads/starworld.png",STAR WORLD HD
+http://192.168.37.2:1935/live3/54_adaptive.m3u8
+#EXTINF:-1 tvg-name="DUCK TV HD" channel-id="67" tv-logo="http://tv.halasat.net/images/uploads/duck.png",DUCK TV HD
+http://192.168.37.2:1935/live3/55_adaptive.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES HD" channel-id="68" tv-logo="http://tv.halasat.net/images/uploads/starmovies.png",STAR MOVIES HD
+http://192.168.37.2:1935/live3/56_adaptive.m3u8
+#EXTINF:-1 tvg-name="AL-RASHEED" channel-id="69" tv-logo="http://tv.halasat.net/images/uploads/rasheed.png",AL-RASHEED
+http://192.168.37.2:1935/nile/alrasheed1.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="Aghani TV" channel-id="70" tv-logo="http://tv.halasat.net/images/uploads/mtvl.png",Aghani TV
+http://192.168.37.2:1935/nile/music-alremas1.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="ROTANA CLIP" channel-id="71" tv-logo="http://tv.halasat.net/images/uploads/rotanaclip.png",ROTANA CLIP
+http://192.168.37.2:1935/nile2/rotanaclip2.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="AL-SHARQIYA" channel-id="72" tv-logo="http://tv.halasat.net/images/uploads/sharqiya.png",AL-SHARQIYA
+http://192.168.37.2:1935/nile2/al-sharqiya2.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="Al-SUMARIA" channel-id="73" tv-logo="http://tv.halasat.net/images/uploads/sumaria.png",Al-SUMARIA
+http://192.168.37.2:1935/nile3/al-sumaria3.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="ALAAN TV" channel-id="74" tv-logo="http://tv.halasat.net/images/uploads/dubaione.png",ALAAN TV
+http://192.168.37.2:1935/nile3/dubaione3.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="ZEE AFLAM" channel-id="75" tv-logo="http://tv.halasat.net/images/uploads/zeeaflam.png",ZEE AFLAM
+http://192.168.37.2:1935/nile2/dubaisport2.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC" channel-id="76" tv-logo="http://tv.halasat.net/images/uploads/mbc.png",MBC
+http://192.168.37.2:1935/nile/mbc1.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC 2" channel-id="77" tv-logo="http://tv.halasat.net/images/uploads/mbc2.png",MBC 2
+http://192.168.37.2:1935/nile2/mbc2.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC 3" channel-id="78" tv-logo="http://tv.halasat.net/images/uploads/mbc3.png",MBC 3
+http://192.168.37.2:1935/nile3/mbc3.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC 4" channel-id="79" tv-logo="http://tv.halasat.net/images/uploads/mbc4.png",MBC 4
+http://192.168.37.2:1935/nile/mbc4-1.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC ACTION" channel-id="80" tv-logo="http://tv.halasat.net/images/uploads/mbcaction.png",MBC ACTION
+http://192.168.37.2:1935/nile2/mbcaction2.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC BOLLYWOOD" channel-id="81" tv-logo="http://tv.halasat.net/images/uploads/mbcbollywood.png",MBC BOLLYWOOD
+http://192.168.37.2:1935/nile3/mbcbo3.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC DRAMA" channel-id="82" tv-logo="http://tv.halasat.net/images/uploads/mbcdrama.png",MBC DRAMA
+http://192.168.37.2:1935/nile3/mbcmax3.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="ROTANA CINEMA" channel-id="83" tv-logo="http://tv.halasat.net/images/uploads/rotanacinema.png",ROTANA CINEMA
+http://192.168.37.2:1935/nile2/rotana-cinema2.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="ROTANA" channel-id="84" tv-logo="http://tv.halasat.net/images/uploads/rotana.png",ROTANA
+http://192.168.37.2:1935/nile/rotana1.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="NAT GEO KIDS" channel-id="85" tv-logo="http://tv.halasat.net/images/uploads/natgeokids.png",NAT GEO KIDS
+http://192.168.37.2:1935/nile3/spacetoon3.stream_360p_adaptive.m3u8
+#EXTINF:-1 tvg-name="MBC+ DRAMA" channel-id="86" tv-logo="http://tv.halasat.net/images/uploads/mbcdramaplus.png",MBC+ DRAMA
+http://192.168.37.2:1935/live/18_adaptive.m3u8
+#EXTINF:-1 tvg-name="BARAEEM" channel-id="87" tv-logo="http://tv.halasat.net/images/uploads/baraem.png",BARAEEM
+http://192.168.37.2:1935/live/17_adaptive.m3u8
+#EXTINF:-1 tvg-name="NAT GEO PEOPLE" channel-id="89" tv-logo="http://tv.halasat.net/images/uploads/natgeopeople.png",NAT GEO PEOPLE
+http://192.168.37.2:1935/live2/71_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES ACTION" channel-id="91" tv-logo="http://tv.halasat.net/images/uploads/osnmact.png",OSN MOVIES ACTION
+http://192.168.37.2:1935/live3/42_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN MOVIES 1 HD" channel-id="96" tv-logo="http://tv.halasat.net/images/uploads/beinmovies1.png",BEIN MOVIES 1 HD
+http://192.168.37.2:1935/live2/87_adaptive.m3u8
+#EXTINF:-1 tvg-name="itv Choice" channel-id="97" tv-logo="http://tv.halasat.net/images/uploads/itv.png",itv Choice
+http://192.168.37.2:1935/live/78_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES THRILLER" channel-id="106" tv-logo="http://tv.halasat.net/images/uploads/osnmoviesthriller.png",OSN MOVIES THRILLER
+http://192.168.37.2:1935/live3/48_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN GOURMET HD" channel-id="107" tv-logo="http://tv.halasat.net/images/uploads/beingourmet.png",BEIN GOURMET HD
+http://192.168.37.2:1935/live2/32_adaptive.m3u8
+#EXTINF:-1 tvg-name="RT ARABIC HD" channel-id="112" tv-logo="http://tv.halasat.net/images/uploads/rtarabic.png",RT ARABIC HD
+http://192.168.37.2:1935/nile3/rta_adaptive.m3u8
+#EXTINF:-1 tvg-name="AD DRAMA HD" channel-id="113" tv-logo="http://tv.halasat.net/images/uploads/addrama.png",AD DRAMA HD
+http://192.168.37.2:1935/nile/add_adaptive.m3u8
+#EXTINF:-1 tvg-name="ART Hekayat" channel-id="118" tv-logo="http://tv.halasat.net/images/uploads/arthikayat.png",ART Hekayat
+http://192.168.37.2:1935/live/24_adaptive.m3u8
+#EXTINF:-1 tvg-name="ART Hekayat 2" channel-id="119" tv-logo="http://tv.halasat.net/images/uploads/arthikayat2.png",ART Hekayat 2
+http://192.168.37.2:1935/live3/98_adaptive.m3u8
+#EXTINF:-1 tvg-name="ART Cinema" channel-id="120" tv-logo="http://tv.halasat.net/images/uploads/artcinema.png",ART Cinema
+http://192.168.37.2:1935/live2/29_adaptive.m3u8
+#EXTINF:-1 tvg-name="AD NAT GEO HD" channel-id="127" tv-logo="http://tv.halasat.net/images/uploads/adn.png",AD NAT GEO HD
+http://192.168.37.2:1935/nile3/adn_adaptive.m3u8
+#EXTINF:-1 tvg-name="IRAQIA SPORT" channel-id="128" tv-logo="http://tv.halasat.net/images/uploads/iqs.png",IRAQIA SPORT
+http://192.168.37.2:1935/nile2/iqs_adaptive.m3u8
+#EXTINF:-1 tvg-name="YAS SPORTS" channel-id="138" tv-logo="http://tv.halasat.net/images/uploads/yas.png",YAS SPORTS
+http://192.168.37.2:1935/nile/yas_adaptive.m3u8
+#EXTINF:-1 tvg-name="NAT GEO HD" channel-id="144" tv-logo="http://tv.halasat.net/images/uploads/natgeo.png",NAT GEO HD
+http://192.168.37.2:1935/live3/101_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES DISNEY" channel-id="145" tv-logo="http://tv.halasat.net/images/uploads/osnmoviesdisney.png",OSN MOVIES DISNEY
+http://192.168.37.2:1935/live3/100_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN LIVING" channel-id="150" tv-logo="http://tv.halasat.net/images/uploads/osnliving.png",OSN LIVING
+http://192.168.37.2:1935/live3/46_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN YAHALA CINEMA HD" channel-id="151" tv-logo="http://tv.halasat.net/images/uploads/osnyahalacinema.png",OSN YAHALA CINEMA HD
+http://192.168.37.2:1935/live2/31_adaptive.m3u8
+#EXTINF:-1 tvg-name="IRAQIA NEWS" channel-id="152" tv-logo="http://tv.halasat.net/images/uploads/iqn.png",IRAQIA NEWS
+http://192.168.37.2:1935/nile/iqn_adaptive.m3u8
+#EXTINF:-1 tvg-name="MYHD SPORTS 1" channel-id="153" tv-logo="http://tv.halasat.net/images/uploads/myhdsport1.png",MYHD SPORTS 1
+http://192.168.37.2:1935/live2/106_adaptive.m3u8
+#EXTINF:-1 tvg-name="Dijla TV" channel-id="157" tv-logo="http://tv.halasat.net/images/uploads/dijla.png",Dijla TV
+http://192.168.37.2:1935/live/dij_adaptive.m3u8
+#EXTINF:-1 tvg-name="FATAFEAT" channel-id="158" tv-logo="http://tv.halasat.net/images/uploads/fatafeat.png",FATAFEAT
+http://192.168.37.2:1935/live/19_adaptive.m3u8
+#EXTINF:-1 tvg-name="SYFY HD" channel-id="159" tv-logo="http://tv.halasat.net/images/uploads/syfy.png",SYFY HD
+http://192.168.37.2:1935/live3/53_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES HD" channel-id="160" tv-logo="http://tv.halasat.net/images/uploads/osnmovies.png",OSN MOVIES HD
+http://192.168.37.2:1935/live3/51_adaptive.m3u8
+#EXTINF:-1 tvg-name="AD SPORTS 1" channel-id="164" tv-logo="http://tv.halasat.net/images/uploads/ads1.png",AD SPORTS 1
+http://192.168.37.2:1935/nile/ad1_adaptive.m3u8
+#EXTINF:-1 tvg-name="AD SPORTS 2" channel-id="165" tv-logo="http://tv.halasat.net/images/uploads/ads2.png",AD SPORTS 2
+http://192.168.37.2:1935/nile/ad2_adaptive.m3u8
+#EXTINF:-1 tvg-name="ALKASS 4 HD" channel-id="171" tv-logo="http://tv.halasat.net/images/uploads/alkass4.png",ALKASS 4 HD
+http://192.168.37.2:1935/nile3/kass4_adaptive.m3u8
+#EXTINF:-1 tvg-name="ALKASS 2 HD" channel-id="172" tv-logo="http://tv.halasat.net/images/uploads/alkass2.png",ALKASS 2 HD
+http://192.168.37.2:1935/nile2/kass2_adaptive.m3u8
+#EXTINF:-1 tvg-name="ALKASS 1 HD" channel-id="173" tv-logo="http://tv.halasat.net/images/uploads/alkass1.png",ALKASS 1 HD
+http://192.168.37.2:1935/nile/kass1_adaptive.m3u8
+#EXTINF:-1 tvg-name="Al-Arabiya" channel-id="174" tv-logo="http://tv.halasat.net/images/uploads/arabiya.png",Al-Arabiya
+http://192.168.37.2:1935/nile/al-arabiya_adaptive.m3u8
+#EXTINF:-1 tvg-name="MTV Lebanon" channel-id="175" tv-logo="http://tv.halasat.net/images/uploads/mtvl.png",MTV Lebanon
+http://192.168.37.2:1935/nile2/mtvl_adaptive.m3u8
+#EXTINF:-1 tvg-name="Rotana Drama" channel-id="176" tv-logo="http://tv.halasat.net/images/uploads/rotana.png",Rotana Drama
+http://192.168.37.2:1935/nile3/rotanadrama_adaptive.m3u8
+#EXTINF:-1 tvg-name="Cinema" channel-id="177" tv-logo="http://tv.halasat.net/images/uploads/cinema.png",Cinema
+http://192.168.37.2:1935/live/cima_adaptive.m3u8
+#EXTINF:-1 tvg-name="ON SPORT HD" channel-id="178" tv-logo="http://tv.halasat.net/images/uploads/onsports.png",ON SPORT HD
+http://192.168.37.2:1935/live/ons_adaptive.m3u8
+#EXTINF:-1 tvg-name="ON TV HD" channel-id="179" tv-logo="http://tv.halasat.net/images/uploads/ontv.png",ON TV HD
+http://192.168.37.2:1935/live/ontv_adaptive.m3u8
+#EXTINF:-1 tvg-name="DMC Drama" channel-id="180" tv-logo="http://tv.halasat.net/images/uploads/dmcdrama.png",DMC Drama
+http://192.168.37.2:1935/live/dmcdrama_adaptive.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi TV" channel-id="181" tv-logo="http://tv.halasat.net/images/uploads/adtv.png",Abu Dhabi TV
+http://192.168.37.2:1935/live/sv1_adaptive.m3u8
+#EXTINF:-1 tvg-name="FOX LIFE HD" channel-id="182" tv-logo="http://tv.halasat.net/images/uploads/foxlife.png",FOX LIFE HD
+http://192.168.37.2:1935/live2/97_adaptive.m3u8
+#EXTINF:-1 tvg-name="FOX REWAYAT HD" channel-id="184" tv-logo="http://tv.halasat.net/images/uploads/foxr.png",FOX REWAYAT HD
+http://192.168.37.2:1935/live/99_adaptive.m3u8
+#EXTINF:-1 tvg-name="FOX CRIME HD" channel-id="187" tv-logo="http://tv.halasat.net/images/uploads/foxcrime.png",FOX CRIME HD
+http://192.168.37.2:1935/live/104_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN DRAMA 1 HD" channel-id="188" tv-logo="http://tv.halasat.net/images/uploads/beindrama1.png",BEIN DRAMA 1 HD
+http://192.168.37.2:1935/live2/103_adaptive.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK" channel-id="189" tv-logo="http://tv.halasat.net/images/uploads/food.png",FOOD NETWORK
+http://192.168.37.2:1935/live2/105_adaptive.m3u8
+#EXTINF:-1 tvg-name="ZEE Alwan" channel-id="190" tv-logo="http://tv.halasat.net/images/uploads/zeeaflam.png",ZEE Alwan
+http://192.168.37.2:1935/nile/zeealwan_adaptive.m3u8
+#EXTINF:-1 tvg-name="DMC HD" channel-id="195" tv-logo="http://tv.halasat.net/images/uploads/dmchd.png",DMC HD
+http://192.168.37.2:1935/live3/dmchd_adaptive.m3u8
+#EXTINF:-1 tvg-name="EURONEWS" channel-id="200" tv-logo="http://tv.halasat.net/images/uploads/euronews.png",EURONEWS
+http://192.168.37.2:1935/live2/72_adaptive.m3u8
+#EXTINF:-1 tvg-name="DW ARABIA" channel-id="201" tv-logo="http://tv.halasat.net/images/uploads/dwarabia.png",DW ARABIA
+http://192.168.37.2:1935/live3/85_adaptive.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde Style" channel-id="202" tv-logo="http://tv.halasat.net/images/uploads/tv5.png",TV5 Monde Style
+http://192.168.37.2:1935/live3/74_adaptive.m3u8
+#EXTINF:-1 tvg-name="FILMBOX" channel-id="203" tv-logo="http://tv.halasat.net/images/uploads/filmbox.png",FILMBOX
+http://192.168.37.2:1935/live3/75_adaptive.m3u8
+#EXTINF:-1 tvg-name="STINGRAY iConcerts" channel-id="204" tv-logo="http://tv.halasat.net/images/uploads/iconcerts.png",STINGRAY iConcerts
+http://192.168.37.2:1935/live3/76_adaptive.m3u8
+#EXTINF:-1 tvg-name="France 24" channel-id="205" tv-logo="http://tv.halasat.net/images/uploads/france24.png",France 24
+http://192.168.37.2:1935/live3/82_adaptive.m3u8
+#EXTINF:-1 tvg-name="V HD" channel-id="206" tv-logo="http://tv.halasat.net/images/uploads/v.png",V HD
+http://192.168.37.2:1935/live3/84_adaptive.m3u8
+#EXTINF:-1 tvg-name="BBC EARTH" channel-id="207" tv-logo="http://tv.halasat.net/images/uploads/bbcearth.png",BBC EARTH
+http://192.168.37.2:1935/live3/83_adaptive.m3u8
+#EXTINF:-1 tvg-name="BEIN SERIES 1 HD" channel-id="208" tv-logo="http://tv.halasat.net/images/uploads/beinseries1.png",BEIN SERIES 1 HD
+http://192.168.37.2:1935/live3/81_adaptive.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES KIDS" channel-id="209" tv-logo="http://tv.halasat.net/images/uploads/osnmovieskids.png",OSN MOVIES KIDS
+http://192.168.37.2:1935/live/112_adaptive.m3u8
+#EXTINF:-1 tvg-name="Al-KASS Extra HD" channel-id="210" tv-logo="http://tv.halasat.net/images/uploads/alkass1.png",Al-KASS Extra HD
+http://192.168.37.2:1935/bein1/beinmax_adaptive.m3u8
+  }
+]

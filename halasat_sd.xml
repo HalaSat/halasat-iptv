@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <channel>
+    <name>BEIN SPORTS 4K</name>
+    <url>http://192.168.37.2:1935/bein1/bein4k_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 1HD</name>
+    <url>http://192.168.37.2:1935/bein1/1_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 2HD</name>
+    <url>http://192.168.37.2:1935/bein1/2_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 3HD</name>
+    <url>http://192.168.37.2:1935/bein1/3_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS MAX HD</name>
+    <url>http://192.168.37.2:1935/bein1/4_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 5HD</name>
+    <url>http://192.168.37.2:1935/bein1/5_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES FIRST</name>
+    <url>http://192.168.37.2:1935/live/6_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN YAHALA HD</name>
+    <url>http://192.168.37.2:1935/live/7_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>NAT GEO WILD HD</name>
+    <url>http://192.168.37.2:1935/live/8_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>PLANET EARTH HD</name>
+    <url>http://192.168.37.2:1935/live/5_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN YAHALA AL OULA</name>
+    <url>http://192.168.37.2:1935/live/9_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DISCOVERY HD</name>
+    <url>http://192.168.37.2:1935/live/10_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ANIMAL PLANET HD</name>
+    <url>http://192.168.37.2:1935/live/12_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>TRAVEL CHANNEL</name>
+    <url>http://192.168.37.2:1935/live/13_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DISCOVERY SCIENCE HD</name>
+    <url>http://192.168.37.2:1935/live/14_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FIX & FOXI</name>
+    <url>http://192.168.37.2:1935/live/15_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>STEREO MUSIC</name>
+    <url>http://192.168.37.2:1935/live/16_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DISNEY CHANNEL</name>
+    <url>http://192.168.37.2:1935/live2/35_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>HISTORY CHANNEL</name>
+    <url>http://192.168.37.2:1935/live2/34_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 6HD</name>
+    <url>http://192.168.37.2:1935/bein2/6_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 7HD</name>
+    <url>http://192.168.37.2:1935/bein2/7_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 8HD</name>
+    <url>http://192.168.37.2:1935/bein2/8_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 9HD</name>
+    <url>http://192.168.37.2:1935/bein2/9_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SPORTS 10HD</name>
+    <url>http://192.168.37.2:1935/bein2/10_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES BOXOFFICE</name>
+    <url>http://192.168.37.2:1935/live2/36_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AD SPORTS 3</name>
+    <url>http://192.168.37.2:1935/live2/21_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>TLC HD</name>
+    <url>http://192.168.37.2:1935/live2/22_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FOX ACTION MOVIES</name>
+    <url>http://192.168.37.2:1935/live2/23_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FX HD</name>
+    <url>http://192.168.37.2:1935/live2/25_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FOX FAMILY MOVIES</name>
+    <url>http://192.168.37.2:1935/live2/26_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MY CINEMA</name>
+    <url>http://192.168.37.2:1935/live2/27_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>GAME TOON</name>
+    <url>http://192.168.37.2:1935/live2/28_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Discovery Family HD</name>
+    <url>http://192.168.37.2:1935/live3/41_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>CARTOON NETWORK ARABIA</name>
+    <url>http://192.168.37.2:1935/nile3/74_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AD SPORTS 4</name>
+    <url>http://192.168.37.2:1935/live3/43_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>GULLI</name>
+    <url>http://192.168.37.2:1935/live/44_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES DRAMA</name>
+    <url>http://192.168.37.2:1935/live3/49_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN FIRST HBO</name>
+    <url>http://192.168.37.2:1935/live3/45_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DISNEY JUNIOR</name>
+    <url>http://192.168.37.2:1935/live3/47_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>WWE Network</name>
+    <url>http://192.168.37.2:1935/live3/50_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES COMEDY</name>
+    <url>http://192.168.37.2:1935/live2/33_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC+ VARIETY</name>
+    <url>http://192.168.37.2:1935/live/96_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DOCUBOX</name>
+    <url>http://192.168.37.2:1935/live3/52_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>STAR WORLD HD</name>
+    <url>http://192.168.37.2:1935/live3/54_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DUCK TV HD</name>
+    <url>http://192.168.37.2:1935/live3/55_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>STAR MOVIES HD</name>
+    <url>http://192.168.37.2:1935/live3/56_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AL-RASHEED</name>
+    <url>http://192.168.37.2:1935/nile/alrasheed1.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Aghani TV</name>
+    <url>http://192.168.37.2:1935/nile/music-alremas1.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ROTANA CLIP</name>
+    <url>http://192.168.37.2:1935/nile2/rotanaclip2.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AL-SHARQIYA</name>
+    <url>http://192.168.37.2:1935/nile2/al-sharqiya2.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Al-SUMARIA</name>
+    <url>http://192.168.37.2:1935/nile3/al-sumaria3.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ALAAN TV</name>
+    <url>http://192.168.37.2:1935/nile3/dubaione3.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ZEE AFLAM</name>
+    <url>http://192.168.37.2:1935/nile2/dubaisport2.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC</name>
+    <url>http://192.168.37.2:1935/nile/mbc1.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC 2</name>
+    <url>http://192.168.37.2:1935/nile2/mbc2.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC 3</name>
+    <url>http://192.168.37.2:1935/nile3/mbc3.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC 4</name>
+    <url>http://192.168.37.2:1935/nile/mbc4-1.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC ACTION</name>
+    <url>http://192.168.37.2:1935/nile2/mbcaction2.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC BOLLYWOOD</name>
+    <url>http://192.168.37.2:1935/nile3/mbcbo3.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC DRAMA</name>
+    <url>http://192.168.37.2:1935/nile3/mbcmax3.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ROTANA CINEMA</name>
+    <url>http://192.168.37.2:1935/nile2/rotana-cinema2.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ROTANA</name>
+    <url>http://192.168.37.2:1935/nile/rotana1.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>NAT GEO KIDS</name>
+    <url>http://192.168.37.2:1935/nile3/spacetoon3.stream_360p_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MBC+ DRAMA</name>
+    <url>http://192.168.37.2:1935/live/18_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BARAEEM</name>
+    <url>http://192.168.37.2:1935/live/17_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>NAT GEO PEOPLE</name>
+    <url>http://192.168.37.2:1935/live2/71_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES ACTION</name>
+    <url>http://192.168.37.2:1935/live3/42_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN MOVIES 1 HD</name>
+    <url>http://192.168.37.2:1935/live2/87_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>itv Choice</name>
+    <url>http://192.168.37.2:1935/live/78_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES THRILLER</name>
+    <url>http://192.168.37.2:1935/live3/48_adaptive.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN GOURMET HD</name>
+    <url>http://192.168.37.2:1935/live2/32_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>RT ARABIC HD</name>
+    <url>http://192.168.37.2:1935/nile3/rta_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AD DRAMA HD</name>
+    <url>http://192.168.37.2:1935/nile/add_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ART Hekayat</name>
+    <url>http://192.168.37.2:1935/live/24_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ART Hekayat 2</name>
+    <url>http://192.168.37.2:1935/live3/98_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ART Cinema</name>
+    <url>http://192.168.37.2:1935/live2/29_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AD NAT GEO HD</name>
+    <url>http://192.168.37.2:1935/nile3/adn_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>IRAQIA SPORT</name>
+    <url>http://192.168.37.2:1935/nile2/iqs_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>YAS SPORTS</name>
+    <url>http://192.168.37.2:1935/nile/yas_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>NAT GEO HD</name>
+    <url>http://192.168.37.2:1935/live3/101_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES DISNEY</name>
+    <url>http://192.168.37.2:1935/live3/100_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN LIVING</name>
+    <url>http://192.168.37.2:1935/live3/46_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN YAHALA CINEMA HD</name>
+    <url>http://192.168.37.2:1935/live2/31_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>IRAQIA NEWS</name>
+    <url>http://192.168.37.2:1935/nile/iqn_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MYHD SPORTS 1</name>
+    <url>http://192.168.37.2:1935/live2/106_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Dijla TV</name>
+    <url>http://192.168.37.2:1935/live/dij_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FATAFEAT</name>
+    <url>http://192.168.37.2:1935/live/19_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>SYFY HD</name>
+    <url>http://192.168.37.2:1935/live3/53_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES HD</name>
+    <url>http://192.168.37.2:1935/live3/51_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AD SPORTS 1</name>
+    <url>http://192.168.37.2:1935/nile/ad1_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>AD SPORTS 2</name>
+    <url>http://192.168.37.2:1935/nile/ad2_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ALKASS 4 HD</name>
+    <url>http://192.168.37.2:1935/nile3/kass4_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ALKASS 2 HD</name>
+    <url>http://192.168.37.2:1935/nile2/kass2_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ALKASS 1 HD</name>
+    <url>http://192.168.37.2:1935/nile/kass1_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Al-Arabiya</name>
+    <url>http://192.168.37.2:1935/nile/al-arabiya_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>MTV Lebanon</name>
+    <url>http://192.168.37.2:1935/nile2/mtvl_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Rotana Drama</name>
+    <url>http://192.168.37.2:1935/nile3/rotanadrama_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Cinema</name>
+    <url>http://192.168.37.2:1935/live/cima_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ON SPORT HD</name>
+    <url>http://192.168.37.2:1935/live/ons_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ON TV HD</name>
+    <url>http://192.168.37.2:1935/live/ontv_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DMC Drama</name>
+    <url>http://192.168.37.2:1935/live/dmcdrama_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Abu Dhabi TV</name>
+    <url>http://192.168.37.2:1935/live/sv1_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FOX LIFE HD</name>
+    <url>http://192.168.37.2:1935/live2/97_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FOX REWAYAT HD</name>
+    <url>http://192.168.37.2:1935/live/99_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FOX CRIME HD</name>
+    <url>http://192.168.37.2:1935/live/104_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN DRAMA 1 HD</name>
+    <url>http://192.168.37.2:1935/live2/103_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FOOD NETWORK</name>
+    <url>http://192.168.37.2:1935/live2/105_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>ZEE Alwan</name>
+    <url>http://192.168.37.2:1935/nile/zeealwan_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DMC HD</name>
+    <url>http://192.168.37.2:1935/live3/dmchd_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>EURONEWS</name>
+    <url>http://192.168.37.2:1935/live2/72_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>DW ARABIA</name>
+    <url>http://192.168.37.2:1935/live3/85_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>TV5 Monde Style</name>
+    <url>http://192.168.37.2:1935/live3/74_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>FILMBOX</name>
+    <url>http://192.168.37.2:1935/live3/75_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>STINGRAY iConcerts</name>
+    <url>http://192.168.37.2:1935/live3/76_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>France 24</name>
+    <url>http://192.168.37.2:1935/live3/82_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>V HD</name>
+    <url>http://192.168.37.2:1935/live3/84_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BBC EARTH</name>
+    <url>http://192.168.37.2:1935/live3/83_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>BEIN SERIES 1 HD</name>
+    <url>http://192.168.37.2:1935/live3/81_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>OSN MOVIES KIDS</name>
+    <url>http://192.168.37.2:1935/live/112_sd.m3u8</url>
+  </channel>
+  <channel>
+    <name>Al-KASS Extra HD</name>
+    <url>http://192.168.37.2:1935/bein1/beinmax_sd.m3u8</url>
+  </channel>
+</list>

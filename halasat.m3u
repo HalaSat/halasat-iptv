@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTINF:-1, BEIN SPORTS 4K
+http://192.168.37.2:1935/bein1/bein4k/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 1HD
+http://192.168.37.2:1935/bein1/1/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 2HD
+http://192.168.37.2:1935/bein1/2/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 3HD
+http://192.168.37.2:1935/bein1/3/playlist.m3u8
+#EXTINF:-1, ",BEIN SPORTS MAX HD
+http://192.168.37.2:1935/bein1/4/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 5HD
+http://192.168.37.2:1935/bein1/5/playlist.m3u8
+#EXTINF:-1, OSN MOVIES FIRST
+http://192.168.37.2:1935/live/6/playlist.m3u8
+#EXTINF:-1, OSN YAHALA HD
+http://192.168.37.2:1935/live/7/playlist.m3u8
+#EXTINF:-1, ",NAT GEO WILD HD
+http://192.168.37.2:1935/live/8/playlist.m3u8
+#EXTINF:-1, PLANET EARTH HD
+http://192.168.37.2:1935/live/5/playlist.m3u8
+#EXTINF:-1, ",OSN YAHALA AL OULA
+http://192.168.37.2:1935/live/9/playlist.m3u8
+#EXTINF:-1,  HD
+http://192.168.37.2:1935/live/10/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+http://192.168.37.2:1935/live/12/playlist.m3u8
+#EXTINF:-1,  CHANNEL
+http://192.168.37.2:1935/live/13/playlist.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE HD
+http://192.168.37.2:1935/live/14/playlist.m3u8
+#EXTINF:-1, FIX & FOXI
+http://192.168.37.2:1935/live/15/playlist.m3u8
+#EXTINF:-1,  MUSIC
+http://192.168.37.2:1935/live/16/playlist.m3u8
+#EXTINF:-1,  CHANNEL
+http://192.168.37.2:1935/live2/35/playlist.m3u8
+#EXTINF:-1,  CHANNEL
+http://192.168.37.2:1935/live2/34/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 6HD
+http://192.168.37.2:1935/bein2/6/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 7HD
+http://192.168.37.2:1935/bein2/7/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 8HD
+http://192.168.37.2:1935/bein2/8/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 9HD
+http://192.168.37.2:1935/bein2/9/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 10HD
+http://192.168.37.2:1935/bein2/10/playlist.m3u8
+#EXTINF:-1, OSN MOVIES BOXOFFICE
+http://192.168.37.2:1935/live2/36/playlist.m3u8
+#EXTINF:-1, AD SPORTS 3
+http://192.168.37.2:1935/live2/21/playlist.m3u8
+#EXTINF:-1,  HD
+http://192.168.37.2:1935/live2/22/playlist.m3u8
+#EXTINF:-1, FOX ACTION MOVIES
+http://192.168.37.2:1935/live2/23/playlist.m3u8
+#EXTINF:-1,  HD
+http://192.168.37.2:1935/live2/25/playlist.m3u8
+#EXTINF:-1, FOX FAMILY MOVIES
+http://192.168.37.2:1935/live2/26/playlist.m3u8
+#EXTINF:-1,  CINEMA
+http://192.168.37.2:1935/live2/27/playlist.m3u8
+#EXTINF:-1,  TOON
+http://192.168.37.2:1935/live2/28/playlist.m3u8
+#EXTINF:-1, Discovery Family HD
+http://192.168.37.2:1935/live3/41/playlist.m3u8
+#EXTINF:-1, CARTOON NETWORK ARABIA
+http://192.168.37.2:1935/nile3/74/playlist.m3u8
+#EXTINF:-1, AD SPORTS 4
+http://192.168.37.2:1935/live3/43/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live/44/playlist.m3u8
+#EXTINF:-1, OSN MOVIES DRAMA
+http://192.168.37.2:1935/live3/49/playlist.m3u8
+#EXTINF:-1, OSN FIRST HBO
+http://192.168.37.2:1935/live3/45/playlist.m3u8
+#EXTINF:-1,  JUNIOR
+http://192.168.37.2:1935/live3/47/playlist.m3u8
+#EXTINF:-1,  Network
+http://192.168.37.2:1935/live3/50/playlist.m3u8
+#EXTINF:-1, OSN MOVIES COMEDY
+http://192.168.37.2:1935/live2/33/playlist.m3u8
+#EXTINF:-1, MBC+ VARIETY
+http://192.168.37.2:1935/live/96/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live3/52/playlist.m3u8
+#EXTINF:-1, STAR WORLD HD
+http://192.168.37.2:1935/live3/54/playlist.m3u8
+#EXTINF:-1, DUCK TV HD
+http://192.168.37.2:1935/live3/55/playlist.m3u8
+#EXTINF:-1, STAR MOVIES HD
+http://192.168.37.2:1935/live3/56/playlist.m3u8
+#EXTINF:-1, AL-RASHEED
+http://192.168.37.2:1935/nile/alrasheed1.stream_360p/playlist.m3u8
+#EXTINF:-1,  TV
+http://192.168.37.2:1935/nile/music-alremas1.stream_360p/playlist.m3u8
+#EXTINF:-1,  CLIP
+http://192.168.37.2:1935/nile2/rotanaclip2.stream_360p/playlist.m3u8
+#EXTINF:-1, AL-SHARQIYA
+http://192.168.37.2:1935/nile2/al-sharqiya2.stream_360p/playlist.m3u8
+#EXTINF:-1, Al-SUMARIA
+http://192.168.37.2:1935/nile3/al-sumaria3.stream_360p/playlist.m3u8
+#EXTINF:-1,  TV
+http://192.168.37.2:1935/nile3/dubaione3.stream_360p/playlist.m3u8
+#EXTINF:-1,  AFLAM
+http://192.168.37.2:1935/nile2/dubaisport2.stream_360p/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/nile/mbc1.stream_360p/playlist.m3u8
+#EXTINF:-1,  2
+http://192.168.37.2:1935/nile2/mbc2.stream_360p/playlist.m3u8
+#EXTINF:-1,  3
+http://192.168.37.2:1935/nile3/mbc3.stream_360p/playlist.m3u8
+#EXTINF:-1,  4
+http://192.168.37.2:1935/nile/mbc4-1.stream_360p/playlist.m3u8
+#EXTINF:-1,  ACTION
+http://192.168.37.2:1935/nile2/mbcaction2.stream_360p/playlist.m3u8
+#EXTINF:-1,  BOLLYWOOD
+http://192.168.37.2:1935/nile3/mbcbo3.stream_360p/playlist.m3u8
+#EXTINF:-1,  DRAMA
+http://192.168.37.2:1935/nile3/mbcmax3.stream_360p/playlist.m3u8
+#EXTINF:-1,  CINEMA
+http://192.168.37.2:1935/nile2/rotana-cinema2.stream_360p/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/nile/rotana1.stream_360p/playlist.m3u8
+#EXTINF:-1, NAT GEO KIDS
+http://192.168.37.2:1935/nile3/spacetoon3.stream_360p/playlist.m3u8
+#EXTINF:-1, MBC+ DRAMA
+http://192.168.37.2:1935/live/18/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live/17/playlist.m3u8
+#EXTINF:-1, NAT GEO PEOPLE
+http://192.168.37.2:1935/live2/71/playlist.m3u8
+#EXTINF:-1, OSN MOVIES ACTION
+http://192.168.37.2:1935/live3/42/playlist.m3u8
+#EXTINF:-1, ",BEIN MOVIES 1 HD
+http://192.168.37.2:1935/live2/87/playlist.m3u8
+#EXTINF:-1,  Choice
+http://192.168.37.2:1935/live/78/playlist.m3u8
+#EXTINF:-1, OSN MOVIES THRILLER
+http://192.168.37.2:1935/live3/48/playlist.m3u8
+#EXTINF:-1, BEIN GOURMET HD
+http://192.168.37.2:1935/live2/32/playlist.m3u8
+#EXTINF:-1, RT ARABIC HD
+http://192.168.37.2:1935/nile3/rta/playlist.m3u8
+#EXTINF:-1, AD DRAMA HD
+http://192.168.37.2:1935/nile/add/playlist.m3u8
+#EXTINF:-1,  Hekayat
+http://192.168.37.2:1935/live/24/playlist.m3u8
+#EXTINF:-1, ART Hekayat 2
+http://192.168.37.2:1935/live3/98/playlist.m3u8
+#EXTINF:-1,  Cinema
+http://192.168.37.2:1935/live2/29/playlist.m3u8
+#EXTINF:-1, ",AD NAT GEO HD
+http://192.168.37.2:1935/nile3/adn/playlist.m3u8
+#EXTINF:-1,  SPORT
+http://192.168.37.2:1935/nile2/iqs/playlist.m3u8
+#EXTINF:-1,  SPORTS
+http://192.168.37.2:1935/nile/yas/playlist.m3u8
+#EXTINF:-1, NAT GEO HD
+http://192.168.37.2:1935/live3/101/playlist.m3u8
+#EXTINF:-1, OSN MOVIES DISNEY
+http://192.168.37.2:1935/live3/100/playlist.m3u8
+#EXTINF:-1,  LIVING
+http://192.168.37.2:1935/live3/46/playlist.m3u8
+#EXTINF:-1, ",OSN YAHALA CINEMA HD
+http://192.168.37.2:1935/live2/31/playlist.m3u8
+#EXTINF:-1,  NEWS
+http://192.168.37.2:1935/nile/iqn/playlist.m3u8
+#EXTINF:-1, MYHD SPORTS 1
+http://192.168.37.2:1935/live2/106/playlist.m3u8
+#EXTINF:-1,  TV
+http://192.168.37.2:1935/live/dij/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live/19/playlist.m3u8
+#EXTINF:-1,  HD
+http://192.168.37.2:1935/live3/53/playlist.m3u8
+#EXTINF:-1, OSN MOVIES HD
+http://192.168.37.2:1935/live3/51/playlist.m3u8
+#EXTINF:-1, AD SPORTS 1
+http://192.168.37.2:1935/nile/ad1/playlist.m3u8
+#EXTINF:-1, AD SPORTS 2
+http://192.168.37.2:1935/nile/ad2/playlist.m3u8
+#EXTINF:-1, ALKASS 4 HD
+http://192.168.37.2:1935/nile3/kass4/playlist.m3u8
+#EXTINF:-1, ALKASS 2 HD
+http://192.168.37.2:1935/nile2/kass2/playlist.m3u8
+#EXTINF:-1, ALKASS 1 HD
+http://192.168.37.2:1935/nile/kass1/playlist.m3u8
+#EXTINF:-1, Al-Arabiya
+http://192.168.37.2:1935/nile/al-arabiya/playlist.m3u8
+#EXTINF:-1,  Lebanon
+http://192.168.37.2:1935/nile2/mtvl/playlist.m3u8
+#EXTINF:-1,  Drama
+http://192.168.37.2:1935/nile3/rotanadrama/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live/cima/playlist.m3u8
+#EXTINF:-1, ON SPORT HD
+http://192.168.37.2:1935/live/ons/playlist.m3u8
+#EXTINF:-1, ON TV HD
+http://192.168.37.2:1935/live/ontv/playlist.m3u8
+#EXTINF:-1,  Drama
+http://192.168.37.2:1935/live/dmcdrama/playlist.m3u8
+#EXTINF:-1, Abu Dhabi TV
+http://192.168.37.2:1935/live/sv1/playlist.m3u8
+#EXTINF:-1, FOX LIFE HD
+http://192.168.37.2:1935/live2/97/playlist.m3u8
+#EXTINF:-1, FOX REWAYAT HD
+http://192.168.37.2:1935/live/99/playlist.m3u8
+#EXTINF:-1, FOX CRIME HD
+http://192.168.37.2:1935/live/104/playlist.m3u8
+#EXTINF:-1, ",BEIN DRAMA 1 HD
+http://192.168.37.2:1935/live2/103/playlist.m3u8
+#EXTINF:-1,  NETWORK
+http://192.168.37.2:1935/live2/105/playlist.m3u8
+#EXTINF:-1,  Alwan
+http://192.168.37.2:1935/nile/zeealwan/playlist.m3u8
+#EXTINF:-1,  HD
+http://192.168.37.2:1935/live3/dmchd/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live2/72/playlist.m3u8
+#EXTINF:-1,  ARABIA
+http://192.168.37.2:1935/live3/85/playlist.m3u8
+#EXTINF:-1, TV5 Monde Style
+http://192.168.37.2:1935/live3/74/playlist.m3u8
+#EXTINF:-1, http://192.168.37.2:1935/live3/75/playlist.m3u8
+#EXTINF:-1,  iConcerts
+http://192.168.37.2:1935/live3/76/playlist.m3u8
+#EXTINF:-1,  24
+http://192.168.37.2:1935/live3/82/playlist.m3u8
+#EXTINF:-1,  HD
+http://192.168.37.2:1935/live3/84/playlist.m3u8
+#EXTINF:-1,  EARTH
+http://192.168.37.2:1935/live3/83/playlist.m3u8
+#EXTINF:-1, ",BEIN SERIES 1 HD
+http://192.168.37.2:1935/live3/81/playlist.m3u8
+#EXTINF:-1, OSN MOVIES KIDS
+http://192.168.37.2:1935/live/112/playlist.m3u8
+#EXTINF:-1, png",Al-KASS Extra HD
+http://192.168.37.2:1935/bein1/beinmax/playlist.m3u8
+  }
+]
